@@ -1,0 +1,20 @@
+In my testing folder are all my files.
+I left comments :
+right before the main game loop in main.py,
+towards the bottom of the create_attributes funtion in Map02.py,
+and towards the bottom of the tilecheck function in Map02.py
+explaining my current issues in fairly decent detail. 
+
+I'm going to take a break today. I've been screwing with it for 3 hours today and most of yesterday and it'd be a
+healthy time for a break.
+If you have an suggestions after running it or whatsoever then message me on discord.
+Otherwise I'll mess with it again later tonight, around 10 or so.
+
+P.S
+Just so no one is confused, transportation.txt is just a testing map for transportation. The tile number for that purple orb (421) is what I'm using for transportation as of
+right now.
+ 
+Regards,
+Jefferey Schlueter
+
+

@@ -1,0 +1,2 @@
+0: Responses Yes.: No.
+1: Picking up items You found a sword!: You found a potion!: You found a bow!: You found a pistol!
